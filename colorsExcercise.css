@@ -1,0 +1,50 @@
+/* Colors descending down in size */
+h1{
+    background-color: red;
+    color: rgba(136, 255, 0, 0.9);
+}
+
+h2{
+    background-color: orange;
+    color: rgb(0, 162, 255);
+}
+
+h3{
+background-color: yellow;
+    color: #FF02BF;
+}
+
+h4{
+    background-color: green;
+    color: cyan;
+}
+
+h5{
+    background-color: blue;
+    color: rgb(255, 0, 21);
+}
+
+h6{
+    background-color: indigo;
+    color: rgb(237, 253, 6);
+}
+
+p{
+    background-color: violet;
+    color: rgb(143, 238, 130);
+}
+
+div{
+    margin: 5px;
+}
+
+li:nth-of-type(1){
+    color: hotpink;
+}
+
+li:nth-of-type(3){
+    background-color:  peachpuff;
+}
+li:nth-of-type(odd){
+    margin: 5px;
+}
